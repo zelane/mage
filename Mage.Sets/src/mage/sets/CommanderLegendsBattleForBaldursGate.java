@@ -142,6 +142,7 @@ public final class CommanderLegendsBattleForBaldursGate extends ExpansionSet {
         cards.add(new SetCardInfo("Clockwork Fox", 308, Rarity.COMMON, mage.cards.c.ClockworkFox.class));
         cards.add(new SetCardInfo("Cloudkill", 121, Rarity.UNCOMMON, mage.cards.c.Cloudkill.class));
         cards.add(new SetCardInfo("Colossal Badger", 223, Rarity.COMMON, mage.cards.c.ColossalBadger.class));
+        cards.add(new SetCardInfo("Commander Liara Portyr", 270, Rarity.UNCOMMON, mage.cards.c.CommanderLiaraPortyr.class));
         cards.add(new SetCardInfo("Command Tower", 351, Rarity.COMMON, mage.cards.c.CommandTower.class));
         cards.add(new SetCardInfo("Compulsive Research", 715, Rarity.COMMON, mage.cards.c.CompulsiveResearch.class));
         cards.add(new SetCardInfo("Cone of Cold", 61, Rarity.UNCOMMON, mage.cards.c.ConeOfCold.class));
